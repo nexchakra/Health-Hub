@@ -1,0 +1,9 @@
+
+{
+  "name": "HealthHub Pharmacy",
+  "description": "A comprehensive pharmacy management and ordering platform with AI-powered health assistance, interactive dashboards, and flexible takeaway/delivery options.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
